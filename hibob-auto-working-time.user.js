@@ -6,6 +6,8 @@
 // @match        https://app.hibob.com/attendance/my-attendance*
 // @run-at       document-idle
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/embirrim/hibob-userscripts/main/hibob-auto-working-time.user.js
+// @downloadURL  https://raw.githubusercontent.com/embirrim/hibob-userscripts/main/hibob-auto-working-time.user.js
 // ==/UserScript==
 
 (function () {
